@@ -1,6 +1,6 @@
 # Table of contents
 
-## 📖 Revoluzion Ecosystem Introduction
+## 📒 Revoluzion Ecosystem Introduction
 
 * [Revoluzion Ecosystem](README.md)
 * [Revoluzion Token Information](revoluzion-ecosystem-introduction/revoluzion-token-information.md)
@@ -12,7 +12,7 @@
 * [Official Links](revoluzion-ecosystem-introduction/official-links.md)
 * [Revoluzion Verification](revoluzion-ecosystem-introduction/revoluzion-verification.md)
 
-## 📖 Services Provided By Revoluzion
+## 📒 Services Provided By Revoluzion
 
 * [Services Provided Introduction](services-provided-by-revoluzion/services-provided-introduction.md)
 * [Smart Contract Audit](services-provided-by-revoluzion/smart-contract-audit.md)
@@ -33,7 +33,7 @@
 * [NFT Design / Sketch Artwork](services-provided-by-revoluzion/nft-design-sketch-artwork.md)
 * [Troubleshooting / Guidance](services-provided-by-revoluzion/troubleshooting-guidance.md)
 
-## 📖 Revoluzion Launchpad Protocol
+## 📒 Revoluzion Launchpad Protocol
 
 * [Launchpad Protocol Introduction](revoluzion-launchpad-protocol/launchpad-protocol-introduction.md)
 * [Why Choose Revoluzion Launchpad?](revoluzion-launchpad-protocol/why-choose-revoluzion-launchpad.md)
