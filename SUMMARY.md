@@ -1,6 +1,6 @@
 # Table of contents
 
-## Revoluzion Ecosystem Introduction
+## 📖 Revoluzion Ecosystem Introduction
 
 * [Revoluzion Ecosystem](README.md)
 * [Revoluzion Token Information](revoluzion-ecosystem-introduction/revoluzion-token-information.md)
@@ -12,7 +12,7 @@
 * [Official Links](revoluzion-ecosystem-introduction/official-links.md)
 * [Revoluzion Verification](revoluzion-ecosystem-introduction/revoluzion-verification.md)
 
-## Services Provided By Revoluzion
+## 📖 Services Provided By Revoluzion
 
 * [Services Provided Introduction](services-provided-by-revoluzion/services-provided-introduction.md)
 * [Smart Contract Audit](services-provided-by-revoluzion/smart-contract-audit.md)
@@ -33,7 +33,7 @@
 * [NFT Design / Sketch Artwork](services-provided-by-revoluzion/nft-design-sketch-artwork.md)
 * [Troubleshooting / Guidance](services-provided-by-revoluzion/troubleshooting-guidance.md)
 
-## Revoluzion Launchpad Protocol
+## 📖 Revoluzion Launchpad Protocol
 
 * [Launchpad Protocol Introduction](revoluzion-launchpad-protocol/launchpad-protocol-introduction.md)
 * [Why Choose Revoluzion Launchpad?](revoluzion-launchpad-protocol/why-choose-revoluzion-launchpad.md)
@@ -45,7 +45,7 @@
 * [Presale Calculator](revoluzion-launchpad-protocol/presale-calculator.md)
 * [Tutorials & Guides](revoluzion-launchpad-protocol/tutorials-and-guides.md)
 
-## Revoluzion Decentralized Exchange (DEX)
+## 📖 Revoluzion Decentralized Exchange (DEX)
 
 * [Decentralized Exchange Introduction](revoluzion-decentralized-exchange-dex/decentralized-exchange-introduction.md)
 * [Dashboard](revoluzion-decentralized-exchange-dex/dashboard.md)
@@ -60,7 +60,7 @@
 * [How To Add / Remove Liquidity?](revoluzion-decentralized-exchange-dex/how-to-add-remove-liquidity.md)
 * [Auto Add Liquidity](revoluzion-decentralized-exchange-dex/auto-add-liquidity.md)
 
-## Revoluzion Token Creation
+## 📖 Revoluzion Token Creation
 
 * [Token Creation Introduction](revoluzion-token-creation/token-creation-introduction.md)
 * [Token Creation Fee](revoluzion-token-creation/token-creation-fee.md)
@@ -74,28 +74,28 @@
 * [Rebase Token](revoluzion-token-creation/rebase-token.md)
 * [Rebase & Dividend Token](revoluzion-token-creation/rebase-and-dividend-token.md)
 
-## Revoluzion Locking Vault
+## 📖 Revoluzion Locking Vault
 
 * [Vault / Lock Introduction](revoluzion-locking-vault/vault-lock-introduction.md)
 * [Audited / PenTest](revoluzion-locking-vault/audited-pentest.md)
 * [How To Utilize Vault / Lock](revoluzion-locking-vault/how-to-utilize-vault-lock.md)
 
-## Revoluzion Payment Services
+## 📖 Revoluzion Payment Services
 
 * [Revoluzion Payment Channel](revoluzion-payment-services/revoluzion-payment-channel.md)
 * [Escrow Payment Services](revoluzion-payment-services/escrow-payment-services.md)
 
-## REVOLUZION AIRDROP / MULTI SENDER
+## 📖 REVOLUZION AIRDROP / MULTI SENDER
 
 * [Airdrop / Multi-Sender Introduction](revoluzion-airdrop-multi-sender/airdrop-multi-sender-introduction.md)
 * [Airdrop](revoluzion-airdrop-multi-sender/airdrop.md)
 * [Multi-Sender](revoluzion-airdrop-multi-sender/multi-sender.md)
 
-## Revoluzion AI Chat Support Bot
+## 📖 Revoluzion AI Chat Support Bot
 
 * [AI Chat Support Bot](revoluzion-ai-chat-support-bot/ai-chat-support-bot.md)
 
-## Resources
+## 📖 Resources
 
 * [Resources For Users](resources/resources-for-users.md)
 * [Useful Links](resources/useful-links.md)
@@ -104,7 +104,7 @@
 * [Marketers](resources/marketers.md)
 * [AMA / Callers](resources/ama-callers.md)
 
-## Legal
+## 📖 Legal
 
 * [Term Of Service](legal/term-of-service.md)
 * [Privacy Policy](legal/privacy-policy.md)
