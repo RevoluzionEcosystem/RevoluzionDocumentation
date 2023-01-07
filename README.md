@@ -1,5 +1,5 @@
 ---
-description: 'Revoluzion Documentation Repository'
+description: Revoluzion Documentation Repository
 ---
 
 # Revoluzion Ecosystem
@@ -8,11 +8,13 @@ description: 'Revoluzion Documentation Repository'
 
 ## <mark style="color:yellow;">What Is Revoluzion?</mark>
 
-The future of the multi-dApp ecosystem is here with Revoluzion, the one-stop center for users around the world. Our platform offers a range of features, including the Launchpad, DEX swap, and audit/smart contract services, which make it easy for users to create and manage their projects without worrying about hosting or scaling.&#x20;
+The future of the multi-dApp ecosystem is here with Revoluzion, the one-stop center for users around the world. Our platform offers a range of features, including the Launchpad, DEX swap, and audit/smart contract services, which make it easy for users to create and manage their projects without worrying about hosting or scaling.
 
 These features are already available, and we have more planned for the future. Revoluzion provides the best of all worlds, offering users everything they need to succeed in the fast-paced world of dApp development.
 
+{% hint style="info" %}
 Revoluzion's documentation is currently being revised and updated. We apologize for any inconvenience this may cause. Please check back at a later time for the latest information. We will make an announcement once the full documentation has been fully updated. Thank you for your understanding and patience.
+{% endhint %}
 
 ### <mark style="color:yellow;">**Revoluzion Has Been Featured On**</mark>
 
