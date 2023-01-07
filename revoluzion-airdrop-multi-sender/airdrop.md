@@ -8,13 +8,15 @@ Revoluzion airdrop platform is user-friendly and allows clients to easily distri
 
 ### <mark style="color:yellow;">How To Use Revoluzion Airdrop</mark>
 
-To use the Revoluzion airdrop features on revoluzion.app, follow these steps:
+To use Revoluzion's airdrop tool, follow these steps:
 
-1. Connect your wallet to revoluzion.app by selecting the "Connect Wallet" button and following the prompts.
-2. From the main menu, select the "Airdrop / Multi-Sender" tab.
-3. Follow the prompts to enter the necessary information, such as the token contract address, the recipient addresses, and the amount of tokens to be distributed.
-4. Review the information to ensure that everything is correct, and then submit the transaction.
+1. Go to the Revoluzion dApp and connect your wallet.
+2. Once you have connect your wallet, navigate to the airdrop tool tab.
+3. Enter the details of your distribution, including the wallet addresses and amounts of tokens you want to send to every address. You can either enter this information manually or upload an excel file containing all the addresses.
+4. Review your distribution to ensure everything is correct, then submit the distribution for processing.
+5. Revoluzion dApp will then prompt user to approve the allowance required for our smart contract to utilize the token for distribution, click approve and wait till block verifies.
+6. The airdrop tool will handle the distribution of the tokens to the specified wallet addresses. You can track the progress of the distribution in your wallet explorer.
 
-Please note that the exact steps may vary depending on the specific airdrop or multi-sender feature being used. It is important to carefully read and follow the instructions provided on revoluzion.app to ensure that the process is completed successfully.
+That's it! Using Revoluzion's airdrop tool is a quick and easy way to distribute tokens to multiple recipients.
 
 Users can easily upload their list of targeted wallet addresses using an Excel file or by pasting them into a tool like Notepad++. For more helpful tips and tricks, contact any of Revoluzion team or mods in our Telegram group chat [here](https://t.me/RevoluzionEcosystem).

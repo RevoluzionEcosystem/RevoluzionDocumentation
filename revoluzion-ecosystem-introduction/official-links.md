@@ -9,7 +9,7 @@ description: List Of Revoluzion Official Links
 Below are the list of Revoluzion official links. We provide a full access to every links regarding Revoluzion ecosystem to help our users navigate easily.
 
 {% hint style="warning" %}
-Please note that only the links provided above are official and verified by Revoluzion. Any other links not listed on this page are not affiliated with Revoluzion in any way.
+Please note that only the links provided below are official and verified by Revoluzion. Any other links not listed on this page are not affiliated with Revoluzion in any way.
 {% endhint %}
 
 Website : [https://revoluzion.io](https://revoluzion.io)
