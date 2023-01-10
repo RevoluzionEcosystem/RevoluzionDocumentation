@@ -14,49 +14,49 @@ If you are in need of an audit service, please consider reaching out to one of t
 
 ### Revoluzion
 
-[Https://www.revoluzion.io/audit](https://revoluzion.io/audit-services/) \
-[https://t.me/Zackrevoluzion77](https://t.me/Zackrevoluzion77)&#x20;
+[Https://www.revoluzion.io/audit](https://revoluzion.io/audit-services/)\
+[https://t.me/Zackrevoluzion77](https://t.me/Zackrevoluzion77)
 
 ### BlockSafu
 
 [https://blocksafu.com/](https://blocksafu.com/)\
-[https://t.me/BlockSAFU](https://t.me/BlockSAFU)&#x20;
+[https://t.me/BlockSAFU](https://t.me/BlockSAFU)
 
 ### **Certik**
 
-****[https://www.certik.com/](https://www.certik.com/)
+[https://www.certik.com/](https://www.certik.com/)
 
 ### **CFG Ninja**
 
-****[https://cfg.ninja/](https://cfg.ninja/)\
+[https://cfg.ninja/](https://cfg.ninja/)\
 [https://t.me/Bladepool](https://t.me/Bladepool)
 
 ### **Chainsulting**
 
-****[https://chainsulting.de/](https://chainsulting.de/)\
-[https://t.me/chainsulting](https://t.me/chainsulting)&#x20;
+[https://chainsulting.de/](https://chainsulting.de/)\
+[https://t.me/chainsulting](https://t.me/chainsulting)
 
 ### **Contract Wolf**
 
-****[https://contractwolf.io/](https://contractwolf.io/)\
+[https://contractwolf.io/](https://contractwolf.io/)\
 [https://t.me/ContractWolfOfficial](https://t.me/ContractWolfOfficial)
 
 ### **Cyberscope**
 
-****[https://www.cyberscope.io/](https://www.cyberscope.io/)\
+[https://www.cyberscope.io/](https://www.cyberscope.io/)\
 [https://t.me/coinscope\_admin](https://t.me/coinscope\_admin)
 
 ### **Expelee**
 
-****[https://expelee.com/](https://expelee.com/)\
+[https://expelee.com/](https://expelee.com/)\
 [https://t.me/Ritz\_Expelee](https://t.me/Ritz\_Expelee)
 
 ### **SolidProof**
 
-****[https://twitter.com/solidproof\_io](https://twitter.com/solidproof\_io)\
+[https://twitter.com/solidproof\_io](https://twitter.com/solidproof\_io)\
 [https://t.me/solidproof\_io](https://t.me/solidproof\_io)
 
 ### **StaySafu**
 
-****[https://www.staysafu.org/audit](https://www.staysafu.org/audit)\
+[https://www.staysafu.org/audit](https://www.staysafu.org/audit)\
 [https://t.me/SAFUJosh](https://t.me/SAFUJosh)
