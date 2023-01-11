@@ -56,4 +56,4 @@ CoinMarketCap Community : [https://coinmarketcap.com/community/profile/Revoluzio
 
 CoinGecko : [https://www.coingecko.com/en/coins/revoluzion](https://www.coingecko.com/en/coins/revoluzion)
 
-DefiLlama : [https://defillama.com/protocol/revoluzion](https://defillama.com/protocol/revoluzion)
+DefiLlama : To be updated to new adapter

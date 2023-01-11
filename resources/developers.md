@@ -14,15 +14,15 @@ If you are in need of developer for smart contract, dapp or any sort of developm
 
 ### Revoluzion
 
-[Https://www.revoluzion.io/audit](https://revoluzion.io/audit-services/) \
-[https://t.me/Zackrevoluzion77](https://t.me/Zackrevoluzion77)&#x20;
+[Https://www.revoluzion.io/audit](https://revoluzion.io/audit-services/)\
+[https://t.me/Zackrevoluzion77](https://t.me/Zackrevoluzion77)
 
 ### BlockSafu
 
 [https://blocksafu.com/](https://blocksafu.com/)\
-[https://t.me/BlockSAFU](https://t.me/BlockSAFU)&#x20;
+[https://t.me/BlockSAFU](https://t.me/BlockSAFU)
 
 ### **CFG Ninja**
 
-****[https://cfg.ninja/](https://cfg.ninja/)\
+[https://cfg.ninja/](https://cfg.ninja/)\
 [https://t.me/Bladepool](https://t.me/Bladepool)

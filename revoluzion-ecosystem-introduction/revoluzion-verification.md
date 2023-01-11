@@ -17,40 +17,40 @@ For more information about the Revoluzion team, please visit [https://revoluzion
 ### <mark style="color:yellow;">Revoluzion Core Team</mark>
 
 Zack - Founder\
-****[https://t.me/Zackrevoluzion77](https://t.me/Zackrevoluzion77)****
+[https://t.me/Zackrevoluzion77](https://t.me/Zackrevoluzion77)
 
 Nur Phoebe - Advertising Lead\
-[https://t.me/PheebsWong](https://t.me/PheebsWong)****
+[https://t.me/PheebsWong](https://t.me/PheebsWong)
 
 Nizar - Full Stack Developer\
-[https://t.me/im6e697a6172](https://t.me/im6e697a6172)****
+[https://t.me/im6e697a6172](https://t.me/im6e697a6172)
 
 Han - Social / Content Lead\
-[https://t.me/HanETG](https://t.me/HanETG)****
+[https://t.me/HanETG](https://t.me/HanETG)
 
 Firdaus - Cyber Security Lead\
-[https://t.me/Firdauskhai](https://t.me/Firdauskhai)****
+[https://t.me/Firdauskhai](https://t.me/Firdauskhai)
 
 Ubai - Artwork Sketch Lead\
-[https://t.me/Yggnir](https://t.me/Yggnir)****
+[https://t.me/Yggnir](https://t.me/Yggnir)
 
 Pozan - Marketing / Community Tech Lead\
-[https://t.me/pzznnn](https://t.me/pzznnn)****
+[https://t.me/pzznnn](https://t.me/pzznnn)
 
-Ayman - ReactJS / Phyton / Android / iOS Developer\
+Ayman - ReactJS / Python / Android / iOS Developer\
 [https://t.me/Aymancds](https://t.me/Aymancds)
 
 Najmi - Graphic Designer Lead\
-[https://t.me/nzesdyzar](https://t.me/nzesdyzar)****
+[https://t.me/nzesdyzar](https://t.me/nzesdyzar)
 
 Jasz - China Community Lead\
-[https://t.me/Jaszong](https://t.me/Jaszong)****
+[https://t.me/Jaszong](https://t.me/Jaszong)
 
 Rizwan - Game Tech Support\
-[https://t.me/mochimok13](https://t.me/mochimok13)****
+[https://t.me/mochimok13](https://t.me/mochimok13)
 
 Alan - Game Tech Support\
-[https://t.me/alanlembu](https://t.me/alanlembu)****
+[https://t.me/alanlembu](https://t.me/alanlembu)
 
 Syawal - Head Admin\
 [https://t.me/muhdsyawalsalim](https://t.me/muhdsyawalsalim)
