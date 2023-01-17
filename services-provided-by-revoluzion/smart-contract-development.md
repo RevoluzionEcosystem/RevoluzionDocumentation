@@ -9,7 +9,7 @@ description: Smart Contract Development By Revoluzion
 Revoluzion provides a range of function smart contracts to suit the needs of your project. Our team is skilled in developing various types of smart contracts and logic, including automated rebasing, game contracts, staking, dividends, randomizers, complex algorithms and mathematics, escrow, non-fungible ERC721, ERC1155, and more. We are committed to delivering the best possible solutions for your project.
 
 {% hint style="success" %}
-If you are interested in obtaining a fully custom smart contract from Revoluzion, please don't hesitate to contact us at [Revoluzion](https://t.me/revoluziontoken).&#x20;
+If you are interested in obtaining a fully custom smart contract from Revoluzion, please don't hesitate to contact us at [Revoluzion](https://t.me/revoluziontoken).
 
 We are here to help you get started with the smart contract logics that meets your specific needs and requirements. Feel free to reach out to us today to discuss your project in more detail.
 {% endhint %}
@@ -34,9 +34,9 @@ Revoluzion offers competitive pricing for smart contract development on EVM chai
 
 Ready made smart contracts for tokens are instantly deployable via our dApp.
 
-Custom made smart contracts : <mark style="color:green;">**500 BUSD**</mark> onwards
+Custom made smart contracts : <mark style="color:green;">**800 BUSD**</mark> onwards
 
-Additional add on smart contracts : <mark style="color:green;">**300 BUSD**</mark> onwards
+Additional add on smart contracts : <mark style="color:green;">**500 BUSD**</mark> onwards depending on logic, type and structure
 
 ### <mark style="color:yellow;">Smart Contract Development Flow</mark>
 
@@ -51,6 +51,6 @@ The process of developing a smart contract typically involves the following step
 7. Testing additional functions such as creating presale pool, finalizing and such.
 8. Refine anything required and deliver to the client
 
-After the initial development of the smart contract, Revoluzion will provide two additional revisition to refine and fine-tune anything that may be required to ensure that the final product meets the client's needs and expectations.&#x20;
+After the initial development of the smart contract, Revoluzion will provide two additional revisition to refine and fine-tune anything that may be required to ensure that the final product meets the client's needs and expectations.
 
 At Revoluzion, we are dedicated to delivering the best possible results for our clients and are committed to refining and perfecting our work to ensure that the final smart contract is of the highest quality. Once all necessary refinements have been made, we will deliver the completed project to the client.

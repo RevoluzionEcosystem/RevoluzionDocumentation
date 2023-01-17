@@ -26,9 +26,9 @@ All Revoluzion Audit Reports includes an on-chain NFT Certificate for authentici
 
 Revoluzion offers competitive pricing for token smart contracts on EVM chain/solidity, as well as other chains using languages such as Move and Rust. Our rates are designed to be competitive and provide value to our clients.
 
-Token audit report rate : <mark style="color:green;">**300 BUSD**</mark>
+Token audit report rate : <mark style="color:green;">**500 BUSD**</mark>
 
-Token audit report timeframe : Within 24 hours (depending on submission)
+Token audit report timeframe : Within 24-48 hours (depending on pending workload)
 
 Multiple smart contracts / NFT / GameFi : <mark style="color:green;">**500 BUSD**</mark> onwards
 
