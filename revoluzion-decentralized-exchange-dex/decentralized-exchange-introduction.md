@@ -2,9 +2,9 @@
 
 ## <mark style="color:yellow;">Revoluzion (DEX) Introduction</mark>
 
-Revoluzion decentralized exchange, or DEX, is a type of cryptocurrency exchange that operates on the Binance Smart Chain decentralized network, rather than a centralized server. This means that the exchange is not controlled by a single entity, but rather is run and maintained by a network of users.&#x20;
+Revoluzion decentralized exchange, or DEX, is a type of cryptocurrency exchange that operates on the Binance Smart Chain decentralized network, rather than a centralized server. This means that the exchange is not controlled by a single entity, but rather is run and maintained by a network of users.
 
-Revoluzion decentralized exchanges allow users to buy and sell cryptocurrencies without the need for a central authority, which can provide greater security and privacy for users. On a decentralized exchange, the fees for swapping a token may vary depending on the structure of the token's smart contracts.&#x20;
+Revoluzion decentralized exchanges allow users to buy and sell cryptocurrencies without the need for a central authority, which can provide greater security and privacy for users. On a decentralized exchange, the fees for swapping a token may vary depending on the structure of the token's smart contracts.
 
 In contrast, on a centralized exchange, the fees for trading are typically fixed and are not tied to the specific smart contracts involved in the trade. This is because centralized exchanges typically handle trades off-chain, meaning that the transactions are not recorded on the blockchain.
 
@@ -23,12 +23,12 @@ Here's a breakdown of Revoluzion decentralized exchange fee:
 * <mark style="color:yellow;">**0.125%**</mark> : Liquidity fee provider (for anyone who provide liquidity to the pair will get this incentive)
 * <mark style="color:yellow;">**0.045%**</mark> : To be utilize for RVZ BuyBack & Burn quarterly
 * <mark style="color:yellow;">**0.030%**</mark> : To be stored to Revoluzion treasury
-* <mark style="color:yellow;">**0.180%**</mark> : Total trading fee
+* <mark style="color:yellow;">**0.200%**</mark> : Total trading fee
 
 For example, if a user were to swap an amount of <mark style="color:green;">**10000**</mark> BUSD to USDT on BEP20 network, whereby, both USD rate are exact equal of 1:1 on every decimal point and all other parameters such as slippage etc set aside.
 
 * By using PancakeSwap exchange, users will get a fee charge of <mark style="color:green;">**0.25%**</mark>, meaning user will receive of only 9975 USDT whereby <mark style="color:green;">**25 USDT**</mark> is trading fee charges.
-* By using Revoluzion exchange, users will get a fee charge of only <mark style="color:green;">**0.18%**</mark>, meaning user will receive of only 9982 USDT whereby <mark style="color:green;">**18 USDT**</mark> is trading fee charges.
+* By using Revoluzion exchange, users will get a fee charge of only <mark style="color:green;">**0.20%**</mark>, meaning user will receive of only 9980 USDT whereby <mark style="color:green;">**20 USDT**</mark> is trading fee charges.
 
 One of the main benefits of using Revoluzion DEX for token swaps is that it has a much lower fee rate compared to other exchanges. This means that users will receive more tokens per swap and pay lower fees. This can be especially attractive to users who are looking to maximize the value of their trades and minimize costs and save more overtime.
 
