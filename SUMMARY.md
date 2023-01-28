@@ -106,5 +106,6 @@
 
 ## 📒 Legal
 
+* [Legal](legal/legal.md)
 * [Term Of Service](legal/term-of-service.md)
 * [Privacy Policy](legal/privacy-policy.md)
