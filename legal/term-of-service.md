@@ -51,9 +51,9 @@ We reserve the right to modify or restrict the use of the Tokens at any time and
 
 The Platform allows you to buy, sell, and trade various cryptocurrencies. By using the Platform to conduct cryptocurrency transactions, you understand and agree that you are responsible for the risks associated with such transactions. The Platform does not endorse any particular cryptocurrency and is not responsible for any errors or omissions in connection with any cryptocurrency transactions.
 
-### <mark style="color:yellow;">Non-Custodial Nature of the Wallet</mark>
+### <mark style="color:yellow;">Self-Custodial Nature of the Wallet</mark>
 
-Revoluzion Wallet is a non-custodial wallet, which means that you are solely responsible for the custody of the private keys to your digital asset wallets. Revoluzion Wallet App does not hold or store your private keys or have any access to your digital assets. You are solely responsible for keeping your private keys and recovery phrases secure and should not share them with anyone. If you lose access to your private keys or recovery phrases, you will not be able to access your digital assets forever.
+Revoluzion Wallet is a self-custodial wallet, which means that you are solely responsible for the custody of the private keys to your digital asset wallets. Revoluzion Wallet App does not hold or store your private keys or have any access to your digital assets. You are solely responsible for keeping your private keys and recovery phrases secure and should not share them with anyone. If you lose access to your private keys or recovery phrases, you will not be able to access your digital assets forever.
 
 ### <mark style="color:yellow;">Use of the Revoluzion DEX:</mark>
 
