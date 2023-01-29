@@ -55,7 +55,7 @@ The Platform allows you to buy, sell, and trade various cryptocurrencies. By usi
 
 Revoluzion Wallet is a self-custodial wallet, which means that you are solely responsible for the custody of the private keys to your digital asset wallets. Revoluzion Wallet App does not hold or store your private keys or have any access to your digital assets. You are solely responsible for keeping your private keys and recovery phrases secure and should not share them with anyone. If you lose access to your private keys or recovery phrases, you will not be able to access your digital assets forever.
 
-### <mark style="color:yellow;">Use of the Revoluzion DEX:</mark>
+### <mark style="color:yellow;">Use of the Revoluzion DEX</mark>
 
 Users are required to use the Revoluzion DEX for lawful purposes only, and are prohibited from facilitating illegal or fraudulent activity or engaging in any actions that may harm the DEX or its users. The DEX retains the authority to remove any tokens from whitelist that violate this policy or are otherwise considered inappropriate.
 
