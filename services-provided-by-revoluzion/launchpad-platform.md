@@ -36,7 +36,7 @@ Flexible and modular infrastructure allows for customization and adaptability wi
 
 Revoluzion offers competitive pricing for the setup of the Launchpad protocol. However, the Launchpad protocol is complex and modular, and pricing can vary widely depending on the specific needs and requirements of each project.
 
-Price for base launchpad protocol platform dapp/smart contracts starts from : <mark style="color:green;">**8000 BUSD**</mark>
+Price for base launchpad protocol platform dapp/smart contracts starts from : <mark style="color:green;">**4000 BUSD**</mark>
 
 It is best to get in touch with Revoluzion to obtain a complete price quote for your specific project. We can provide you with more detailed information on the costs involved and help you determine the best pricing options based on your specific needs.
 
