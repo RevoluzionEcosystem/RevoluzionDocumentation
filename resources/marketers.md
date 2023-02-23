@@ -17,10 +17,15 @@ If you are in need of a marketing service, please consider reaching out to one o
 
 ### CoinZilla (Ads)
 
-[https://coinzilla.com \
+[https://coinzilla.com\
 ](https://coinzilla.com)[https://coinzilla.com/contact/](https://coinzilla.com/contact/)
 
 ### Karan (Full Marketing Support)
 
 [https://t.me/CryptoK23](https://t.me/CryptoK23)[\
-](https://coinzilla.com)[https://t.me/Kchinoy](https://t.me/Kchinoy)
+](https://coinzilla.com)[https://t.me/Kchinoy](https://t.me/Kchinoy)&#x20;
+
+### Element 43B (Billboards)
+
+[https://www.element43b.com/](https://www.element43b.com/)[\
+](https://coinzilla.com)[https://t.me/lawlee93](https://t.me/lawlee93)
