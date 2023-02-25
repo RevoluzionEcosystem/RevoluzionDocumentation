@@ -32,5 +32,5 @@ If you are in need of a marketing service, please consider reaching out to one o
 
 ### DeFi Solut (Marketing Manager)
 
-[http://ww.defisolut.org](http://ww.defisolut.org)[\
+[https://www.defisolut.org](https://www.defisolut.org)[\
 ](https://coinzilla.com)[https://t.me/DeFisolutChannel](https://t.me/DeFisolutChannel)
