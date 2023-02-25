@@ -16,7 +16,7 @@ Here is a list of our token creation service fees:
 
 ### <img src="../.gitbook/assets/Binance.png" alt="" data-size="line"> <mark style="color:yellow;">Binance Smart Chain (BNB)</mark> <a href="#binance-smart-chain-bsc" id="binance-smart-chain-bsc"></a>
 
-Simple Token - <mark style="color:green;">**0.1 BNB**</mark>\ <mark style="color:green;">****</mark>Standard Token - <mark style="color:green;">**0.5 BNB**</mark>\
+Simple Token - <mark style="color:green;">**0.1 BNB**</mark>\ <mark style="color:yellow;"></mark>Standard Token - <mark style="color:green;">**1 BNB**</mark>\
 Reflection Token - <mark style="color:green;">**1 BNB**</mark>\
 Dividend Token - <mark style="color:green;">**1 BNB**</mark>\
 Dividend & Buyback Token - <mark style="color:green;">**1 BNB**</mark>\
@@ -26,7 +26,7 @@ Rebase & Dividend Token - <mark style="color:green;">**1.5 BNB**</mark>
 
 ### <img src="../.gitbook/assets/Ethereum.png" alt="" data-size="line"> <mark style="color:yellow;">Ethereum Network (ETH)</mark> <a href="#ethereum-network-eth" id="ethereum-network-eth"></a>
 
-Simple Token - <mark style="color:green;">**0.01 ETH**</mark>\ <mark style="color:green;">****</mark>Standard Token - <mark style="color:green;">**0.05 ETH**</mark>\
+Simple Token - <mark style="color:green;">**0.01 ETH**</mark>\ <mark style="color:yellow;"></mark>Standard Token - <mark style="color:green;">**0.1 ETH**</mark>\
 Reflection Token - <mark style="color:green;">**0.1 ETH**</mark>\
 Dividend Token - <mark style="color:green;">**0.1 ETH**</mark>\
 Dividend & Buyback Token - <mark style="color:green;">**0.1 ETH**</mark>\
@@ -36,7 +36,7 @@ Rebase & Dividend Token - <mark style="color:green;">**0.2 ETH**</mark>
 
 ### ​<img src="../.gitbook/assets/Polygon.png" alt="" data-size="line"> <mark style="color:yellow;">Polygon (MATIC)</mark> <a href="#polygon-matic" id="polygon-matic"></a>
 
-Simple Token - <mark style="color:green;">**30 MATIC**</mark>\ <mark style="color:green;">****</mark> Standard Token - <mark style="color:green;">**150 MATIC**</mark>\
+Simple Token - <mark style="color:green;">**30 MATIC**</mark>\ <mark style="color:yellow;"></mark>Standard Token - <mark style="color:green;">**300 MATIC**</mark>\
 Reflection Token - <mark style="color:green;">**300 MATIC**</mark>\
 Dividend Token - <mark style="color:green;">**300 MATIC**</mark>\
 Dividend & Buyback Token - <mark style="color:green;">**300 MATIC**</mark>\

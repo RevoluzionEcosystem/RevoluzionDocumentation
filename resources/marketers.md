@@ -29,3 +29,8 @@ If you are in need of a marketing service, please consider reaching out to one o
 
 [https://www.element43b.com/](https://www.element43b.com/)[\
 ](https://coinzilla.com)[https://t.me/lawlee93](https://t.me/lawlee93)
+
+### DeFi Solut (Marketing Manager)
+
+[http://ww.defisolut.org](http://ww.defisolut.org)[\
+](https://coinzilla.com)[https://t.me/DeFisolutChannel](https://t.me/DeFisolutChannel)
