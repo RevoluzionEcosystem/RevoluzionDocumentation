@@ -25,11 +25,6 @@ If you are in need of a marketing service, please consider reaching out to one o
 [https://t.me/CryptoK23](https://t.me/CryptoK23)[\
 ](https://coinzilla.com)[https://t.me/Kchinoy](https://t.me/Kchinoy)&#x20;
 
-### Element 43B (Billboards)
-
-[https://www.element43b.com/](https://www.element43b.com/)[\
-](https://coinzilla.com)[https://t.me/lawlee93](https://t.me/lawlee93)
-
 ### DeFi Solut (Marketing Manager)
 
 [https://www.defisolut.org](https://www.defisolut.org)[\
