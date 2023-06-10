@@ -14,11 +14,11 @@ Projects are able to utilize our logo as strategic partnership on their material
 
 <div>
 
-<figure><img src="../.gitbook/assets/RevoluzionLogo.png" alt=""><figcaption><p>Revoluzion Logo</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/RevoluzionLogo (1).png" alt=""><figcaption><p>Revoluzion Logo</p></figcaption></figure>
 
  
 
-<figure><img src="../.gitbook/assets/RevoluzionLogoFullDark.png" alt=""><figcaption><p>Revoluzion Logo Full Dark</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/RevoluzionLogoFullDark (1).png" alt=""><figcaption><p>Revoluzion Logo Full Dark</p></figcaption></figure>
 
 </div>
 

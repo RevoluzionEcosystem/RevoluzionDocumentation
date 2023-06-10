@@ -11,6 +11,7 @@
 * [Revoluzion Smart Contracts](revoluzion-ecosystem-introduction/revoluzion-smart-contracts.md)
 * [Official Links](revoluzion-ecosystem-introduction/official-links.md)
 * [Revoluzion Verification](revoluzion-ecosystem-introduction/revoluzion-verification.md)
+* [Pitch Deck](revoluzion-ecosystem-introduction/pitch-deck.md)
 
 ## 📒 Services Provided By Revoluzion
 

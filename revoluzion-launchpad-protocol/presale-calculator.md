@@ -27,7 +27,7 @@ Here's a sample when token distribution works:
 
 <div>
 
-<figure><img src="../.gitbook/assets/Calculator (1).PNG" alt=""><figcaption><p>It will show green if it works</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Calculator.PNG" alt=""><figcaption><p>It will show green if it works</p></figcaption></figure>
 
  
 

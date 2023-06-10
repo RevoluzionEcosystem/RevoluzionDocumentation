@@ -2,7 +2,7 @@
 
 ## <mark style="color:yellow;">NFT Design / Sketch Artwork Introduction</mark>
 
-Welcome to Revoluzion NFT and Sketch design, where we offer a unique blend of 3D NFT artwork and 2D sketch art for our clients. Our team of talented artists are dedicated to creating innovative and eye-catching pieces that are sure to impress.&#x20;
+Welcome to Revoluzion NFT and Sketch design, where we offer a unique blend of 3D NFT artwork and 2D sketch art for our clients. Our team of talented artists are dedicated to creating innovative and eye-catching pieces that are sure to impress.
 
 Our 3D NFT artwork is perfect for collectors and enthusiasts looking to add a touch of digital art to their collection. Our 2D sketch art is great for those looking for a more traditional, hand-drawn look. No matter what your preference, we have something for everyone at Revoluzion. Thank you for considering us for all of your art needs.
 
@@ -25,7 +25,7 @@ Revoluzion offers competitive pricing for 3D NFT And 2D Artwork. For the most ac
 * 2D Sketch artwork NFT x 1 - <mark style="color:green;">**40 Busd**</mark>
 * 2D Sketch artwork 1080p size x 1 - <mark style="color:green;">**100 Busd**</mark>
 * 3D Design artwork NFT x 1 piece - <mark style="color:green;">**50 Busd**</mark>
-* 3D Design Logo x 1 piece - <mark style="color:yellow;"></mark> <mark style="color:green;">**30 Busd**</mark>
+* 3D Design Logo x 1 piece - <mark style="color:green;">**30 Busd**</mark>
 * 3D Design artwork 1080p size x 1 - <mark style="color:green;">**120 Busd**</mark>
 * 3D Design artwork NFT x 500 multi generated pcs - <mark style="color:green;">**900 Busd**</mark>
 
@@ -39,7 +39,7 @@ Designs tend to be more cost-effective when ordered in larger quantities, especi
 
 ### <mark style="color:yellow;">Logos</mark>
 
-<figure><img src="../.gitbook/assets/RevoluzionLogo (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/RevoluzionLogo.png" alt=""><figcaption></figcaption></figure>
 
 ### <mark style="color:yellow;">Sample NFT Artwork</mark>
 

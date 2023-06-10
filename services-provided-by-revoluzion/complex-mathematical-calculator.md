@@ -8,7 +8,7 @@ description: Complex Mathematical Calculator By Revoluzion
 
 Revoluzion provides advanced mathematical calculations for our clients' dApps, allowing users to calculate their staking profits, estimate the growth of their rebase tokens over time, determine presale rates, and more. These calculations are developed specifically for our clients by our team.
 
-There are many types of calculations that can be performed using code, including mathematical calculations, statistical calculations, financial calculations, and scientific calculations, to name a few.&#x20;
+There are many types of calculations that can be performed using code, including mathematical calculations, statistical calculations, financial calculations, and scientific calculations, to name a few.
 
 {% hint style="success" %}
 If you are interested in Revoluzion developing a mathematical calculator, please don't hesitate to contact us at [Revoluzion](https://t.me/revoluziontoken) anytime.
@@ -43,4 +43,4 @@ The timeframe for completing mathematical calculations depends on their complexi
 
 ### <mark style="color:yellow;">Sample Calculator</mark>
 
-<figure><img src="../.gitbook/assets/Calculator.PNG" alt=""><figcaption><p>Revoluzion Presale Calculator</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Calculator (1).PNG" alt=""><figcaption><p>Revoluzion Presale Calculator</p></figcaption></figure>

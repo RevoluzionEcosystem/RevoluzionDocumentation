@@ -28,7 +28,7 @@ Note: Revoluzion accept audits from any auditors as long legitimate for badge
 
 ### <mark style="color:yellow;">Pinned Project Pool</mark>
 
-Project pinned on presale listing page - <mark style="color:green;">**200 Busd**</mark>**  **<mark style="color:yellow;"><mark style="color:green;">**/ day**<mark style="color:green;"></mark>\
+Project pinned on presale listing page - <mark style="color:green;">**200 Busd**</mark> <mark style="color:yellow;"><mark style="color:green;">**/ day**<mark style="color:green;"></mark>\
 Project pinned on Revoluzion Telegram group - <mark style="color:yellow;"><mark style="color:green;">**500 Busd / day**<mark style="color:green;"></mark>
 
 ### <mark style="color:yellow;">AMA Services</mark>
@@ -39,7 +39,8 @@ AMA will be recorded and posted on Telegram announcement channel, YouTube and Tw
 
 ### <mark style="color:yellow;">Telegram Creation Services</mark>
 
-Telegram Announcement Channel + Group + Portal + Welcome message - <mark style="color:green;">**100 Busd**</mark>\ <mark style="color:green;">****</mark>Telegram service comes complete setup, perfect for start up projects\
+Telegram Announcement Channel + Group + Portal + Welcome message - <mark style="color:green;">**100 Busd**</mark>\
+Telegram service comes complete setup, perfect for start up projects\
 Telegram additional services - <mark style="color:green;">**10 Busd**</mark> per services added
 
 ### <mark style="color:yellow;">**Telegram Buy Bot**</mark>
@@ -52,7 +53,9 @@ Revoluzion Telegram group - <mark style="color:green;">**300 Busd**</mark> / day
 2D Sketch artwork NFT x 1 - <mark style="color:green;">**40 Busd**</mark>\
 2D Sketch artwork 1080p size x 1 - <mark style="color:green;">**100 Busd**</mark>\
 \
-3D Design artwork NFT x 1 piece - <mark style="color:green;">**50 Busd**</mark>\ <mark style="color:green;">****</mark>3D Design Logo x 1 piece - <mark style="color:green;">**30 Busd**</mark>\ <mark style="color:green;">****</mark>3D Design artwork 1080p size x 1 - <mark style="color:green;">**120 Busd**</mark>\
+3D Design artwork NFT x 1 piece - <mark style="color:green;">**50 Busd**</mark>\
+3D Design Logo x 1 piece - <mark style="color:green;">**30 Busd**</mark>\
+3D Design artwork 1080p size x 1 - <mark style="color:green;">**120 Busd**</mark>\
 3D Design artwork NFT x 500 multi generated pcs - <mark style="color:green;">**900 Busd**</mark>
 
 ### <mark style="color:yellow;">Escrow Payment Services</mark>
