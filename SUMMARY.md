@@ -12,6 +12,7 @@
 * [Official Links](revoluzion-ecosystem-introduction/official-links.md)
 * [Revoluzion Verification](revoluzion-ecosystem-introduction/revoluzion-verification.md)
 * [Pitch Deck](revoluzion-ecosystem-introduction/pitch-deck.md)
+* [Services Price List](revoluzion-ecosystem-introduction/services-price-list.md)
 
 ## 📒 Services Provided By Revoluzion
 
