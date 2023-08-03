@@ -73,28 +73,64 @@ Please be aware that prices may fluctuate depending on additional factors such a
 
 This agreement is entered into by and between the client ("Client") and Revoluzion ("Company"). By purchasing any of our services, the Client acknowledges and agrees to the following terms and conditions:
 
-1. SAFU CERTIFICATION PACKAGE: The Client acknowledges having read and understood the SAFU Contract Criteria documentation available at: [https://docs.pinksale.finance/important/safu-contract](https://docs.pinksale.finance/important/safu-contract). The Client accepts that the Company reserves the right to cancel or halt any presale as per the directives of PinkSale. The Company is not liable for any unforeseen issues or losses arising from any exploits or mismanagement on the Client's part. The Company may provide amendments to the services based on the scope of work. However, any additional changes beyond the one complimentary revision will incur charges.\
+<mark style="color:yellow;">**SERVICE AGREEMENT**</mark>
 
-2. AUDIT SERVICES: The Client understands and accepts that the Company's audits are conducted to the best of its ability and expertise, adhering to industry standards. The audit report produced is valid as of the audit date, and the Company does not accept liability for any exploits, mishandlings, or losses that occur post-audit, including mismanagement on the part of the Client or their project team. Additional revisions beyond the one complimentary revision will be charged at 50% of the total fee.\
+The Client acknowledges that while the Company is committed to maintaining high standards, it will not be held accountable for false checks by automated scanners. Automated scanners are not entirely reliable, and while we develop and audit based on the highest current standards and coding structures, they only provide a generalized standard check.
 
-3. SMART CONTRACT SERVICES: The Company will develop smart contracts based on what is considered best practice and appropriate for the Client's needs. The Company assumes no responsibility for any issues arising from insufficient information provided by the Client. If the Client fails to provide necessary data, the Company reserves the right to make decisions that are, in its view, in the best interest of the Client. Any amendments beyond the one complimentary minor revision will incur charges of 50% of the total fee.\
+Moreover, the Company will not assume liability if the Client misuses any functions. Although we have set restrictions and requirements in the contract, we will not be accountable if the Client incorrectly sets things up without prior consultation with us.
 
-4. DECENTRALIZED APP (DAPP) DEVELOPMENT: The Client acknowledges that more complex structures or additional token contract inclusions in DApp packages will require further pricing adjustments based on logic complexity. The Company provides one free minor change, with further adjustments incurring additional charges based on the scope of work.\
 
-5. LIABILITY: In no event will the Company be held liable for any damages, including lost profits, lost savings, or other incidental or consequential damages arising from the use, or inability to use the services provided, even if the Company has been advised of the possibility of such damages.\
 
-6. INDEMNIFICATION: The Client agrees to indemnify and hold harmless the Company from any and all claims, demands, losses, causes of action, damage, lawsuits, judgments, including attorneys’ fees and costs, arising out of, or relating to, the Client’s misuse or inability to use the services provided by the Company.\
+<mark style="color:yellow;">**SAFU CERTIFICATION PACKAGE**</mark>
 
-7. COMMUNICATION: Please note that while Revoluzion is committed to maintaining clear and open lines of communication with our clients, we are not obliged to delve into exhaustive details about every facet of our operations. Our communication primarily focuses on the pivotal aspects directly pertaining to the service or package commissioned by the client, ensuring they have a comprehensive understanding and realistic expectations of the service deliverables.\
-   \
-   Additionally, while we are more than happy to assist with minor inquiries or concerns that fall outside the scope of the engaged services, please be aware that extensive requests or demands that require significant time and resources to address may incur additional charges. Such charges will be communicated and agreed upon prior to the commencement of the additional work. This ensures that our commitment to providing exceptional service does not compromise our operational efficiency.\
+The Client acknowledges having read and understood the SAFU Contract Criteria documentation available at: [<mark style="color:yellow;">**https://docs.pinksale.finance/important/safu-contract**</mark>](https://docs.pinksale.finance/important/safu-contract). The Client accepts that the Company reserves the right to cancel or halt any presale as per the directives of PinkSale. The Company will develop the SAFU contracts based on the Client's requirements while adhering to PinkSale's criteria. We are not obligated to add any function or code structure that could disrupt the contract structure or fail the SAFU criteria. The Company is not liable for any unforeseen issues or losses arising from any exploits or mismanagement on the Client's part.
 
-8. REFUNDS AND PAYMENT: The Client understands and agrees that once payment for our services has been made, no refunds will be issued under any circumstances, unless the Company is unable to perform the agreed-upon services. The agreed payment is deemed as acceptance of the project scope and acknowledgment of the potential project completion timeline.\
 
-9.  PROJECT TIMELINES: All project timelines discussed and agreed upon at the time of payment are estimated and not guaranteed. While we strive to meet these timelines, we do not guarantee 100% adherence due to the varying complexity and requirements of individual projects. If the Client requests a specific timeframe for project completion, Revoluzion will consider it, but please note that we cannot provide an absolute guarantee. We are committed to delivering our services to the best of our ability and within the most reasonable timeframe possible.
 
-    By making a payment to the Company, the Client acknowledges and agrees to these terms and conditions, thereby confirming their understanding that the Company is not obligated to issue refunds or guarantee project completion within a specified timeframe, unless expressly agreed upon by Revoluzion.
+<mark style="color:yellow;">**AUDIT SERVICES**</mark>
 
-By agreeing to these terms and conditions, the Client acknowledges their acceptance of the above stipulations and confirms their understanding that the Company is not liable for any losses or issues arising post-service delivery, including but not limited to, exploits, mismanagement, or unforeseen consequences.
+The Client understands and accepts that the Company's audits are conducted to the best of its ability and expertise, adhering to industry standards. If a contract fails despite the fixes stated in the audit report, the Company cannot be held liable if no revisions were made. The Company reserves the right to charge the full audit fee for newly deployed contracts, even if the source code remains the same. Audit reports are conducted in real-time, and once finalized, we will not alter any details unless it is a case of missing information. Additional revisions beyond the one complimentary revision will be charged at 50% of the total fee if the contract has not been deployed on the mainnet. The Company does not accept liability for any exploits, mishandlings, or losses that occur post-audit, including mismanagement on the part of the Client or their project team.
 
-NOTE: This agreement is subject to the laws and regulations of the jurisdiction in which Revoluzion  operates. Please seek professional legal advice if you have any questions regarding this agreement.
+
+
+<mark style="color:yellow;">**SMART CONTRACT SERVICES**</mark>
+
+The Company will develop smart contracts based on what is considered best practice and appropriate for the Client's needs. The Company assumes no responsibility for any issues arising from insufficient information provided by the Client or misuse of functions by the Client. Any amendments beyond the one complimentary minor revision will incur charges of 50% of the total fee.
+
+
+
+<mark style="color:yellow;">**DECENTRALIZED APP (DAPP) DEVELOPMENT**</mark>
+
+The Client acknowledges that more complex structures or additional token contract inclusions in DApp packages will require further pricing adjustments based on logic complexity. The Company provides one free minor change, with further adjustments incurring additional charges based on the scope of work.
+
+
+
+<mark style="color:yellow;">**LIMITATION OF LIABILITY**</mark>
+
+Revoluzion will not be held accountable for extremely complex exploits that are not directly related to the code. Solidity is a constantly evolving language, and potential exploits are always feasible and out of our control. However, the Company endeavors to develop all aspects as securely as possible. In no event will the Company be held liable for any damages, including lost profits, lost savings, or other incidental or consequential damages arising from the use, or inability to use the services provided.
+
+
+
+<mark style="color:yellow;">**INDEMNIFICATION**</mark>
+
+The Client agrees to indemnify and hold harmless the Company from any and all claims, demands, losses, causes of action, damage, lawsuits, judgments, including attorneys’ fees and costs, arising out of, or relating to, the Client’s misuse or inability to use the services provided by the Company.
+
+
+
+<mark style="color:yellow;">**REFUNDS AND PAYMENT**</mark>
+
+The Client understands and agrees that once payment for our services has been made, no refunds will be issued under any circumstances, unless the Company is unable to perform the agreed-upon services.
+
+
+
+<mark style="color:yellow;">**PROJECT TIMELINES**</mark>
+
+All project timelines discussed and agreed upon at the time of payment are estimated and not guaranteed. By making a payment to the Company, the Client acknowledges and agrees to these terms and conditions.
+
+
+
+<mark style="color:yellow;">**ACCEPTANCE OF TERMS**</mark>
+
+By agreeing to these terms and conditions, the Client acknowledges their acceptance of the above stipulations and confirms their understanding that the Company is not liable for any losses or issues arising post-service delivery.
+
+<mark style="color:yellow;">**NOTE:**</mark> This agreement is subject to the laws and regulations of the jurisdiction in which Revoluzion operates. Please seek professional legal advice if you have any questions regarding this agreement.
