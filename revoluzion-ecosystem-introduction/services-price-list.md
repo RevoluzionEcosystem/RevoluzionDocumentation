@@ -73,7 +73,7 @@ Please be aware that prices may fluctuate depending on additional factors such a
 
 This agreement is entered into by and between the client ("Client") and Revoluzion ("Company"). By purchasing any of our services, the Client acknowledges and agrees to the following terms and conditions:
 
-<mark style="color:yellow;">**SERVICE AGREEMENT**</mark>
+### <mark style="color:yellow;">**SERVICE AGREEMENT**</mark>
 
 The Client acknowledges that while the Company is committed to maintaining high standards, it will not be held accountable for false checks by automated scanners. Automated scanners are not entirely reliable, and while we develop and audit based on the highest current standards and coding structures, they only provide a generalized standard check.
 
@@ -81,56 +81,88 @@ Moreover, the Company will not assume liability if the Client misuses any functi
 
 
 
-<mark style="color:yellow;">**SAFU CERTIFICATION PACKAGE**</mark>
+### <mark style="color:yellow;">**SAFU CERTIFICATION PACKAGE**</mark>
 
 The Client acknowledges having read and understood the SAFU Contract Criteria documentation available at: [<mark style="color:yellow;">**https://docs.pinksale.finance/important/safu-contract**</mark>](https://docs.pinksale.finance/important/safu-contract). The Client accepts that the Company reserves the right to cancel or halt any presale as per the directives of PinkSale. The Company will develop the SAFU contracts based on the Client's requirements while adhering to PinkSale's criteria. We are not obligated to add any function or code structure that could disrupt the contract structure or fail the SAFU criteria. The Company is not liable for any unforeseen issues or losses arising from any exploits or mismanagement on the Client's part.
 
 
 
-<mark style="color:yellow;">**AUDIT SERVICES**</mark>
+### <mark style="color:yellow;">**AUDIT SERVICES**</mark>
 
 The Client understands and accepts that the Company's audits are conducted to the best of its ability and expertise, adhering to industry standards. If a contract fails despite the fixes stated in the audit report, the Company cannot be held liable if no revisions were made. The Company reserves the right to charge the full audit fee for newly deployed contracts, even if the source code remains the same. Audit reports are conducted in real-time, and once finalized, we will not alter any details unless it is a case of missing information. Additional revisions beyond the one complimentary revision will be charged at 50% of the total fee if the contract has not been deployed on the mainnet. The Company does not accept liability for any exploits, mishandlings, or losses that occur post-audit, including mismanagement on the part of the Client or their project team.
 
 
 
-<mark style="color:yellow;">**SMART CONTRACT SERVICES**</mark>
+### <mark style="color:yellow;">**SMART CONTRACT SERVICES**</mark>
 
 The Company will develop smart contracts based on what is considered best practice and appropriate for the Client's needs. The Company assumes no responsibility for any issues arising from insufficient information provided by the Client or misuse of functions by the Client. Any amendments beyond the one complimentary minor revision will incur charges of 50% of the total fee.
 
 
 
-<mark style="color:yellow;">**DECENTRALIZED APP (DAPP) DEVELOPMENT**</mark>
+### <mark style="color:yellow;">**DECENTRALIZED APP (DAPP) DEVELOPMENT**</mark>
 
 The Client acknowledges that more complex structures or additional token contract inclusions in DApp packages will require further pricing adjustments based on logic complexity. The Company provides one free minor change, with further adjustments incurring additional charges based on the scope of work.
 
 
 
-<mark style="color:yellow;">**LIMITATION OF LIABILITY**</mark>
+### <mark style="color:yellow;">**LIMITATION OF LIABILITY**</mark>
 
 Revoluzion will not be held accountable for extremely complex exploits that are not directly related to the code. Solidity is a constantly evolving language, and potential exploits are always feasible and out of our control. However, the Company endeavors to develop all aspects as securely as possible. In no event will the Company be held liable for any damages, including lost profits, lost savings, or other incidental or consequential damages arising from the use, or inability to use the services provided.
 
 
 
-<mark style="color:yellow;">**INDEMNIFICATION**</mark>
+### <mark style="color:yellow;">**INDEMNIFICATION**</mark>
 
 The Client agrees to indemnify and hold harmless the Company from any and all claims, demands, losses, causes of action, damage, lawsuits, judgments, including attorneys’ fees and costs, arising out of, or relating to, the Client’s misuse or inability to use the services provided by the Company.
 
 
 
-<mark style="color:yellow;">**REFUNDS AND PAYMENT**</mark>
+### <mark style="color:yellow;">**REFUNDS AND PAYMENT**</mark>
 
 The Client understands and agrees that once payment for our services has been made, no refunds will be issued under any circumstances, unless the Company is unable to perform the agreed-upon services.
 
 
 
-<mark style="color:yellow;">**PROJECT TIMELINES**</mark>
+### <mark style="color:yellow;">**PROJECT TIMELINES**</mark>
 
 All project timelines discussed and agreed upon at the time of payment are estimated and not guaranteed. By making a payment to the Company, the Client acknowledges and agrees to these terms and conditions.
 
 
 
-<mark style="color:yellow;">**ACCEPTANCE OF TERMS**</mark>
+### <mark style="color:yellow;">**CONFIDENTIALITY**</mark>&#x20;
+
+Both Parties agree to maintain confidentiality unless required to divulge information by law or by the agreement of both parties. Proprietary information, client details, and other sensitive information should be kept confidential unless explicitly agreed otherwise.
+
+
+
+### <mark style="color:yellow;">**INTELLECTUAL PROPERTY RIGHTS**</mark>&#x20;
+
+The Company retains all rights to the intellectual property related to the software, technology, methodologies, and all related documentation it has created and used during the provision of its services, unless explicitly agreed otherwise.
+
+
+
+### <mark style="color:yellow;">**TERMINATION**</mark>&#x20;
+
+Either party may terminate this Agreement with written notice. Upon termination, all unpaid work up to the point of termination shall become immediately due and payable. Any material or documents under the possession of the party terminating the agreement, which belongs to the other party, must be promptly returned.
+
+
+
+### <mark style="color:yellow;">**DISPUTE RESOLUTION**</mark>&#x20;
+
+Any disputes arising out of or relating to this agreement shall be resolved through amicable negotiations between the parties. If such negotiations are unsuccessful, the dispute shall be resolved by arbitration under the laws and regulations of the jurisdiction in which Revoluzion operates.
+
+
+
+### <mark style="color:yellow;">**FORCE MAJEURE**</mark>&#x20;
+
+Neither party shall be held liable for a delay or failure in performance of the agreement for services caused by circumstances beyond their reasonable control, including but not limited to 3rd party dependency, 3rd party actions, sickness, acts of God, natural disasters, or government actions.
+
+
+
+### <mark style="color:yellow;">**CONSENT**</mark>&#x20;
 
 By agreeing to these terms and conditions, the Client acknowledges their acceptance of the above stipulations and confirms their understanding that the Company is not liable for any losses or issues arising post-service delivery.
 
 <mark style="color:yellow;">**NOTE:**</mark> This agreement is subject to the laws and regulations of the jurisdiction in which Revoluzion operates. Please seek professional legal advice if you have any questions regarding this agreement.
+
+These additions should help protect both parties involved in the contract and ensure that all potential issues are covered. It is recommended to review this with a legal professional for comprehensive coverage.
