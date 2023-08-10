@@ -1,7 +1,8 @@
 ---
 description: >-
   Below are the list of all Revoluzion Services and pricelist. All prices are
-  estimates and are not fixed, contact us for the most accurate pricing.
+  estimates and are not fixed, contact us for the most accurate pricing. All
+  pricing are in USD currency.
 ---
 
 # Services Price List
@@ -66,6 +67,23 @@ Each package pricing is for base features. More complex structures or additional
 Additional Audit Report: **$250** (The audit will be carried out by a certified PinkSale audit partner)
 
 Please be aware that prices may fluctuate depending on additional factors such as management of private sales. The listed prices also cover the management of presales, although clients can choose to manage their own presale if they prefer.
+
+
+
+<mark style="color:yellow;">**DOXX Package AMA Package Pricing. Please note that once date and time is set, project owner is to adhere to the current timestamp, we provide free one revision of date/time changes before 12 hours of the set time. Any alteration there after is subject to $50 charges each revision. :**</mark>
+
+1. DOXX badge AMA : **$400**
+2. DOXX badge AMA add on from SAFU package: **$300**
+
+Please be aware of the criteria below for Doxx badge.
+
+* Project owner has to be on camera without filters or sort with minimal clear video pixel.
+* Project owner that conducted the KYC with PinkSale would be the one on video.
+* Project owner has to ensure that the video is publicly listed on YouTube.
+* Project owner has to answer any questions related to the project asked by the audiences.
+* Project owner has to be well verse on the project details.
+* Video AMA were to be conducted on Revoluzion Ecosystem Hub, recorded and screen shared from Revoluzion end.
+* Video AMA to be more then 15 mins in length and not more than 30 mins.
 
 
 
