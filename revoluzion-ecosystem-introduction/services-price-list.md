@@ -125,7 +125,9 @@ The Client acknowledges that more complex structures or additional token contrac
 
 ### <mark style="color:yellow;">**LIMITATION OF LIABILITY**</mark>
 
-Revoluzion will not be held accountable for extremely complex exploits that are not directly related to the code. Solidity is a constantly evolving language, and potential exploits are always feasible and out of our control. However, the Company endeavors to develop all aspects as securely as possible. In no event will the Company be held liable for any damages, including lost profits, lost savings, or other incidental or consequential damages arising from the use, or inability to use the services provided.
+Revoluzion recognizes that despite our best efforts to maintain accuracy in our coding, unintentional errors might occur. Given the complexity and continual evolution of Solidity, unforeseen vulnerabilities or potential exploits might arise that are outside our purview. Although Revoluzion is dedicated to upholding top-notch security standards in its development, we will not assume liability for any damages related to or originating from the code, be it directly or indirectly. This encompasses potential loss of profits, savings, or other incidental or consequential damages from using or the inability to use our services. Should a fault be conclusively traced back to us, clients' exclusive remedy will be a refund equivalent to the amount they originally paid to us.
+
+Furthermore, it's crucial to understand that many of the services we provide operate on a decentralized framework. Decentralization inherently means that once a service or product is launched, it operates independently, and we do not have centralized control over it. As such, for any decentralized services provided, Revoluzion is not bound to offer refunds or be held liable for any issues or damages that might emerge from the use of such services.
 
 
 
