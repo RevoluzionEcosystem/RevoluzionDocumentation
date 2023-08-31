@@ -19,9 +19,6 @@ For more information about the Revoluzion team, please visit [https://revoluzion
 Zack - Founder\
 [https://t.me/Zackrevoluzion77](https://t.me/Zackrevoluzion77)
 
-Nur Phoebe - Advertising Lead\
-[https://t.me/PheebsWong](https://t.me/PheebsWong)
-
 Nizar - Full Stack Developer\
 [https://t.me/im6e697a6172](https://t.me/im6e697a6172)
 
