@@ -37,6 +37,9 @@ Pozan - Marketing / Community Tech Lead\
 Ayman - ReactJS / Python / Android / iOS Developer\
 [https://t.me/Aymancds](https://t.me/Aymancds)
 
+Azad - ReactJS / Solidity / Python Developer\
+[https://t.me/blvckb3ard](https://t.me/blvckb3ard)
+
 Najmi - Graphic Designer Lead\
 [https://t.me/nzesdyzar](https://t.me/nzesdyzar)
 
