@@ -9,36 +9,36 @@ description: >-
 
 <mark style="color:yellow;">**AUDIT SERVICES Our audit procedures are meticulously executed, typically concluded within a 24-hour timeframe. Complex logic evaluations may necessitate additional time and analysis. Unless otherwise communicated by Revoluzion, there's no specific timeframe guarantee. We offer one complimentary revision, with subsequent revisions billed at an additional 50% of the total fee. Below is the audit price structure:**</mark>
 
-* Revoluzion token generated: **$250**
-* Pinksale token generated: **$250**
-* Other token types generated: **$250**
-* Standard ERC20 token with tax: **$250**
-* Reflection token: **$300**
-* Dividend token: **$300**
-* Complex dividend tier/staking integration/rebase/rebate token: **$400**
-* ERC 721/ERC 1155: **$500**
-* ERC 2535: **$800**
-* Custom contracts (presale/factory/router/airdrop, etc.): **$500**
-* Vault/Staking Contract: **$700**
-* Complex custom contracts (access control/complex logics): Starting from **$1,000**
+* Revoluzion token generated: **$250+**
+* Pinksale token generated: **$250+**
+* Other token types generated: **$250+**
+* Standard ERC20 token with tax: **$250+**
+* Reflection token: **$300+**
+* Dividend token: **$350+**
+* Complex dividend tier/staking integration/rebase/rebate token: **$500+**
+* ERC 721/ERC 1155: **$500+**
+* ERC 2535: **$800+**
+* Custom contracts (presale/factory/router/airdrop, etc.): **$900+**
+* Vault/Staking Contract: **$800+**
+* Complex custom contracts (access control/complex logics): Starting from **$1,000+**
 
 
 
 <mark style="color:yellow;">**SMART CONTRACT SERVICES Developing smart contracts typically requires between 24 to 120 hours, contingent on the complexity of the logic. We offer one complimentary minor revision, with additional changes costing 50% of the total charge. Below is the price structure:**</mark>
 
-* Basic token smart contract without tax: **$200**
-* Basic token with tax: **$250**
-* Basic token with tax & liquidity injection: **$300**
-* Reflection token with tax: **$450**
-* Dividend token with tax: **$500**
-* Rebase token with tax: **$600**
-* Rebase token with tax and dividend: **$850**
-* ERC 721/1155 token with basic logics: **$500**
-* ERC 721/1155 with moderate complex logics: **$800**
-* ERC 721/1155 with high complexity logics for games, etc.: **$1,200**
-* Lottery/Betting style contracts: **$1,500**
-* ERC 2535 diamond contracts: **$2,500**
-* ERC 1400 contracts: **$1,800**
+* Basic token smart contract without tax: **$300+**
+* Basic token with tax: **$350+**
+* Basic token with tax & liquidity injection: **$400+**
+* Reflection token with tax: **$500+**
+* Dividend token with tax: **$500+**
+* Rebase token with tax: **$600+**
+* Rebase token with tax and dividend: **$850+**
+* ERC 721/1155 token with basic logics: **$800+**
+* ERC 721/1155 with moderate complex logics: **$1000+**
+* ERC 721/1155 with high complexity logics for games, etc.: **$1,500+**
+* Lottery/Betting style contracts: **$1,500+**
+* ERC 2535 diamond contracts: **$2,500+**
+* ERC 1400 contracts: **$1,800+**
 
 
 
@@ -58,11 +58,11 @@ Each package pricing is for base features. More complex structures or additional
 
 <mark style="color:yellow;">**SAFU Certification Package Pricing. Please note that completion timelines are dependent on the complexity of the token type and its associated logic. We offer one minor amendment at no additional cost. Further modifications may incur extra charges depending on the extent of work required. Below is a summary of our package costs:**</mark>
 
-1. SAFU Basic Token: **$500** (This excludes tax-related configurations)
-2. SAFU Tax Token: **$600** (Incorporates basic tax components such as marketing, liquidity injection, etc.)
-3. SAFU Dividend Token: **$750** (Includes both taxes and dividends)
-4. SAFU Rebase with Dividend Token: **$1,000** (Rebase token equipped with taxes and dividends)
-5. SAFU Fully Customized Token: **$1,500** (Includes complex and customized logic such as anti-sniper measures, anti front-run bot protections, custom functions, etc.)
+1. SAFU Basic Token: **$550+** (This excludes tax-related configurations)
+2. SAFU Tax Token: **$650+** (Incorporates basic tax components such as marketing, liquidity injection, etc.)
+3. SAFU Dividend Token: **$750+** (Includes both taxes and dividends)
+4. SAFU Complex Token Contract: **$1,000+** (Includes complex and customized logic such as anti-sniper measures, anti front-run bot protections, custom functions, etc.)
+5. SAFU Fully Customized Token with Dividend: **$1,200+** (Includes complex and customized logic such as anti-sniper measures, anti front-run bot protections, custom functions, etc.)
 
 Additional Audit Report: **$250** (The audit will be carried out by a certified PinkSale audit partner)
 
