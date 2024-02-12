@@ -9,7 +9,7 @@ description: Revoluzion List Of Team Members & Mods
 Below are the list of Revoluzion core team members and mods. Below are the list of official contact links, feel free to contact any of the links below if you need help or guidance. any links besides the link listed below are not part of Revoluzion team or mods.
 
 {% hint style="warning" %}
-The Revoluzion team and moderators will never initiate a direct message or request funds. All payments should be made through the [Revoluzion.app](https://revoluzion.app) dApp's payment tab. To verify the legitimacy of a Telegram link, refer to the documentation provided below.
+The Revoluzion team and moderators will never initiate a direct message. All payments should be made through the [Revoluzion.app](https://revoluzion.app) dApp's payment tab or directly to Revoluzion: Treasury wallet address : **0x9C48405d8E4d107C9DC033993d18D60F67380ca1** . To verify the legitimacy of a Telegram link, refer to the documentation provided below.
 {% endhint %}
 
 For more information about the Revoluzion team, please visit [https://revoluzion.io/team/](https://revoluzion.io/team/).
