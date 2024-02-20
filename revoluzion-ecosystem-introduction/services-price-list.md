@@ -119,7 +119,9 @@ The Company will develop smart contracts based on what is considered best practi
 
 ### <mark style="color:yellow;">**DECENTRALIZED APP (DAPP) DEVELOPMENT**</mark>
 
-The Client acknowledges that more complex structures or additional token contract inclusions in DApp packages will require further pricing adjustments based on logic complexity. The Company provides one free minor change, with further adjustments incurring additional charges based on the scope of work.
+The Client understands that the inclusion of more intricate structures or additional token contract features in decentralized application (DApp) packages may necessitate adjustments to the pricing. These adjustments will reflect the complexity of the logic involved. The Company is pleased to offer one minor change at no additional cost. However, subsequent modifications will incur charges that will be determined by the extent and nature of the work required.
+
+It is important to note that all DApps developed will prominently feature a "Powered by Revoluzion" label, accompanied by an external link to the Revoluzion website and relevant endpoints. This branding is an integral part of our service offering and, as such, cannot be omitted from the footer of any DApp developed under our agreement.
 
 
 
